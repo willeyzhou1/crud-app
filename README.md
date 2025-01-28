@@ -1,6 +1,6 @@
 # crud-app
 
-Following a video in order to learn the basics
+Attempting to learn the basics
 
 # Crud App Finished!!!!
 
